@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MedcordAssignment</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="retrofitBaseUrl">https://qa-doctor.medcords.com/mhc/test_handle_click</string>
+</resources>
